@@ -21,14 +21,6 @@ class ConversationStyle(Enum):
         "h3imaginative",
         "clgalileo",
         "gencontentv3",
-        "invocmax",
-        "spktxtibmoff",
-        "uquopt",
-        "enelecintl",
-        "gndeleccf",
-        "gndlogcf",
-        "2tlocretbn",
-        "osbsdrecoff",
         "eredirecturl",
         "nojbfedge"
     ]
@@ -43,20 +35,8 @@ class ConversationStyle(Enum):
         "iyxapbing",
         "iycapbing",
         "clgalileo",
-        "spktxtibmoff",
-        "uquopt",
-        "enelecintl",
-        "gndeleccf",
-        "gndlogcf",
-        "2tlocretbn",
-        "osbsdrecoff",
         "eredirecturl",
         "saharagenconv5",
-        "cgptrsndlwcp",
-        "flxclmdlspwcp",
-        "gldcl1wcp",
-        "glfluxv15wcp",
-        "invocmax",
         "nojbfedge"
     ]
     precise = [
@@ -70,17 +50,9 @@ class ConversationStyle(Enum):
         "iyxapbing",
         "iycapbing",
         "h3precise",
-        "spktxtibmoff",
-        "uquopt",
-        "enelecintl",
-        "gndeleccf",
-        "gndlogcf",
-        "2tlocretbn",
-        "osbsdrecoff",
         "eredirecturl",
         "clgalileo",
         "gencontentv3",
-        "invocmax",
         "nojbfedge"
     ]
 
