@@ -1,3 +1,5 @@
 {
+  "build_command": "pip install -r requirements.txt",
+  "start_command": "python3 main.py --host 0.0.0.0:8080"
   "serverless": true
 }
